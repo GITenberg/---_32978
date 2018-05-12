@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/786
     wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
 description: 'Translation of: The Lodger'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32978#---
 gutenberg_issued: '2010-06-26'
 gutenberg_type: Text
 identifiers:
